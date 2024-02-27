@@ -1,2 +1,3 @@
 ## Omnifood
-Omnifood repository
+Landing Page pentru Omnifood
+Repositoria Sitului
